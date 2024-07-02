@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.war</groupId>
 	<artifactId>maven-tomcat-war</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>V1.0</version>
 	<packaging>war</packaging>
 	<name>maven-tomcat-war</name>
 	<description>Demo project for Spring Boot</description>
